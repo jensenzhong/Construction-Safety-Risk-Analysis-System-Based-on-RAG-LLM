@@ -1,0 +1,40 @@
+# === Secrets ===
+.env
+settings.json
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Build / distribution artifacts (regenerable) ===
+build/
+dist/
+*.spec.bak
+
+# === Runtime / local environment ===
+.runtime_packages/
+.runtime_appdata/
+.pip_cache/
+.streamlit_local/
+.venv/
+venv/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Tool artifacts ===
+.playwright-mcp/
+.spec-workflow/
+
+# === OS ===
+Thumbs.db
+Desktop.ini
+.DS_Store

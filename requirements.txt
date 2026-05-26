@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+streamlit
+plotly
+pandas
+numpy
+openai
+scikit-learn
+pyarrow
+tqdm
+pytest

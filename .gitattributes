@@ -1,0 +1,5 @@
+release/*.exe filter=lfs diff=lfs merge=lfs -text
+indexes/faiss.index filter=lfs diff=lfs merge=lfs -text
+indexes/metadata.jsonl filter=lfs diff=lfs merge=lfs -text
+indexes/metadata.parquet filter=lfs diff=lfs merge=lfs -text
+Injury[[:space:]]Severity.CSV filter=lfs diff=lfs merge=lfs -text

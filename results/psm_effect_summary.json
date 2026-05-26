@@ -1,0 +1,32 @@
+{
+  "n_samples": 4000,
+  "treated_rate": 0.6195,
+  "caliper": 0.08,
+  "covariates": [
+    "industry_risk",
+    "firm_size",
+    "prior_incidents",
+    "region_risk",
+    "safety_training_score"
+  ],
+  "att": -0.11303996770286637,
+  "atc": -0.10775295663600526,
+  "ate": -0.11102825999192571,
+  "n_att_pairs": 2477,
+  "n_atc_pairs": 1522,
+  "bootstrap_iters": 80,
+  "bootstrap_valid": 80,
+  "att_ci95": [
+    -0.16575740766869795,
+    -0.08125829824788694
+  ],
+  "atc_ci95": [
+    -0.13429052471369154,
+    -0.058075664315644294
+  ],
+  "ate_ci95": [
+    -0.1515743502806046,
+    -0.08450572165243157
+  ],
+  "data_source": "synthetic"
+}
