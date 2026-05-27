@@ -95,7 +95,7 @@
 <div align="center">
   
 ### 数据管理与风险仪表盘（温度 / 风速 / 湿度）
-<img width="3200" height="3593" alt="PixPin_2026-03-14_12-47-57 - 副本" src="https://github.com/user-attachments/assets/89ef1f8e-3179-40a7-825c-0339c2d11f7c" />
+<img width="3169" height="3562" alt="PixPin_2026-03-14_12-47-57 - 副本" src="https://github.com/user-attachments/assets/9e8e9c97-dbd2-40bc-8fab-54bf8f414439" />
 
 
 ### 事故预评估与RAG 历史案例检索
@@ -103,9 +103,10 @@
 
 
 ### 月度事故趋势、事故热力图与环境因素关联分析
-<img width="3200" height="4149" alt="PixPin_2026-03-14_12-47-57 - 副本(1)" src="https://github.com/user-attachments/assets/ce6cc2ec-c9c0-48a6-81a5-ca59a56fe6ea" />
-
+<img width="3153" height="4149" alt="image" src="https://github.com/user-attachments/assets/a85731b1-bba2-40a4-9dd8-966430ba4149" />
 <br/>
+
+</div>
 
 ## :building_construction: 系统架构
 
@@ -449,7 +450,7 @@ python scripts/build_windows_installer.py
 
 ## :balance_scale: 声明
 
-> :information_source: 本项目为广州大学大学生创新训练项目，基于公开的 OSHA 事故数据集进行研究开发。系统中的传感器数据为模拟数据，仅用于展示系统设计理念和核心功能。
+> :information_source: 本项目基于公开的 OSHA 事故数据集进行研究开发。系统中的传感器数据为模拟数据，仅用于展示系统设计理念和核心功能。
 
 <br/>
 
