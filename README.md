@@ -90,23 +90,6 @@
 <br/>
 
 ---
-## :camera: 系统截图
-
-<div align="center">
-  
-### 数据管理与风险仪表盘（温度 / 风速 / 湿度）
-<img width="3169" height="3562" alt="PixPin_2026-03-14_12-47-57 - 副本" src="https://github.com/user-attachments/assets/9e8e9c97-dbd2-40bc-8fab-54bf8f414439" />
-
-
-### 事故预评估与RAG 历史案例检索
-<img width="3148" height="3024" alt="PixPin_2026-03-14_12-50-13" src="https://github.com/user-attachments/assets/45e04c5e-d87a-461b-83e5-c5951010560c" />
-
-
-### 月度事故趋势、事故热力图与环境因素关联分析
-<img width="3153" height="4149" alt="image" src="https://github.com/user-attachments/assets/a85731b1-bba2-40a4-9dd8-966430ba4149" />
-<br/>
-
-</div>
 
 ## :building_construction: 系统架构
 
@@ -193,6 +176,24 @@
 <br/>
 
 ---
+
+## :camera: 系统截图
+
+<div align="center">
+  
+### 数据管理与风险仪表盘（温度 / 风速 / 湿度）
+<img width="3169" height="3562" alt="PixPin_2026-03-14_12-47-57 - 副本" src="https://github.com/user-attachments/assets/9e8e9c97-dbd2-40bc-8fab-54bf8f414439" />
+
+
+### 事故预评估与RAG 历史案例检索
+<img width="3148" height="3024" alt="PixPin_2026-03-14_12-50-13" src="https://github.com/user-attachments/assets/45e04c5e-d87a-461b-83e5-c5951010560c" />
+
+
+### 月度事故趋势、事故热力图与环境因素关联分析
+<img width="3153" height="4149" alt="image" src="https://github.com/user-attachments/assets/a85731b1-bba2-40a4-9dd8-966430ba4149" />
+<br/>
+
+</div>
 
 ## :open_file_folder: 项目结构
 
