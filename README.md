@@ -6,31 +6,6 @@
 
 基于检索增强生成与大语言模型的施工安全风险智能决策平台
 
-<br/>
-
----
-
-## :camera: 系统截图
-
-### 数据管理与风险仪表盘（温度 / 风速 / 湿度）
-
-<img width="604" height="401" alt="image" src="https://github.com/user-attachments/assets/271ef1a6-a231-4278-8ab4-4d1bf2ccca5d" />
-
-### 事故预评估与RAG 历史案例检索
-
-<img width="897" height="429" alt="image" src="https://github.com/user-attachments/assets/a232a902-4063-467d-8802-68efbed27e51" />
-<img width="3148" height="3024" alt="PixPin_2026-03-14_12-50-13" src="https://github.com/user-attachments/assets/45e04c5e-d87a-461b-83e5-c5951010560c" />
-
-
-### 月度事故趋势、事故热力图与环境因素关联分析
-
-<img width="3200" height="4149" alt="PixPin_2026-03-14_12-47-57 - 副本(1)" src="https://github.com/user-attachments/assets/ce6cc2ec-c9c0-48a6-81a5-ca59a56fe6ea" />
-
-<br/>
-
----
-<br/>
-
 ![](https://img.shields.io/badge/方法-RAG%20%2B%20LLM-FF6F61?style=for-the-badge&labelColor=2D2D2D)
 ![](https://img.shields.io/badge/数据-53000%2B%20OSHA事故-4A90D9?style=for-the-badge&labelColor=2D2D2D)
 ![](https://img.shields.io/badge/分析-因果推断%20PSM-50C878?style=for-the-badge&labelColor=2D2D2D)
@@ -115,6 +90,22 @@
 <br/>
 
 ---
+## :camera: 系统截图
+
+<div align="center">
+  
+### 数据管理与风险仪表盘（温度 / 风速 / 湿度）
+<img width="3200" height="3593" alt="PixPin_2026-03-14_12-47-57 - 副本" src="https://github.com/user-attachments/assets/89ef1f8e-3179-40a7-825c-0339c2d11f7c" />
+
+
+### 事故预评估与RAG 历史案例检索
+<img width="3148" height="3024" alt="PixPin_2026-03-14_12-50-13" src="https://github.com/user-attachments/assets/45e04c5e-d87a-461b-83e5-c5951010560c" />
+
+
+### 月度事故趋势、事故热力图与环境因素关联分析
+<img width="3200" height="4149" alt="PixPin_2026-03-14_12-47-57 - 副本(1)" src="https://github.com/user-attachments/assets/ce6cc2ec-c9c0-48a6-81a5-ca59a56fe6ea" />
+
+<br/>
 
 ## :building_construction: 系统架构
 
