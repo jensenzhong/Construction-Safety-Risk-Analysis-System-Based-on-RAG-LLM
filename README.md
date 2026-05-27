@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Sentence_Transformers-Embedding-FF9900?style=flat-square&logo=huggingface&logoColor=white)
 ![](https://img.shields.io/badge/PyInstaller-Windows_Packaging-13AA52?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![](https://img.shields.io/badge/License-CC%20BY--NC%204.0-EF9421?style=flat-square&logo=creativecommons&logoColor=white)
 
 <br/>
 
@@ -449,7 +449,17 @@ python scripts/build_windows_installer.py
 
 ---
 
-## :balance_scale: 声明
+## :balance_scale: 许可证与声明
+
+本项目采用 [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) 许可证。
+
+| 允许 | 禁止 |
+|:---:|:---:|
+| :white_check_mark: 学习与研究使用 | :x: 商业用途 |
+| :white_check_mark: 修改与二次创作 | :x: 未署名使用 |
+| :white_check_mark: 非商业分享与传播 | :x: 去除版权声明 |
+
+> :warning: **商业使用须获得作者书面授权。** 如需商业合作请联系作者。
 
 > :information_source: 本项目基于公开的 OSHA 事故数据集进行研究开发。系统中的传感器数据为模拟数据，仅用于展示系统设计理念和核心功能。
 
@@ -458,6 +468,8 @@ python scripts/build_windows_installer.py
 <div align="center">
 
 **施工安全风险智能分析系统** · 2025
+
+Copyright &copy; 2025 Jensen Zhong. All commercial rights reserved.
 
 Made with :heart: by Jensen Zhong
 
