@@ -132,10 +132,6 @@
 
 ## :camera: 系统截图
 
-### 主界面总览
-
-![主界面](docs/screenshots/main_dashboard.png)
-
 ### 核心 KPI 指标卡片
 
 ![KPI指标](docs/screenshots/kpi_cards.png)
